@@ -54,14 +54,13 @@ Read the README.md file before you proceed.
 
 Never use the following abbreviations in a formal document: 
 
-|     |     |
+|Abbreviation     |     |
 |-----|-----|
 | e.g.  | Instead use "for example"     |
 | i.e.  | Instead use "in other words"  |
 | etc.  | Instead give the full list of options |
 | fig.  | Instead spell it out as "figure"  |
 | pg.   | Instead spell it out as "page"    |
-|       |                                   |
 
 ### **Capitalization** 
 Use standard capitalization rules. Also, keep in mind the following: 
@@ -95,11 +94,10 @@ Contractions are considered informal writing. To prevent “stuffiness” use th
 ### **Apostrophes** 
 Do not use an apostrophe for the plural of acronyms. For example:
 
-|     |     |
+|Apostrophes     |     |
 |-----|-----|
 | API's  | Instead use APIs     |
 | LAN's  | Instead use LANs     |
-|       |                       |
 
 
 
